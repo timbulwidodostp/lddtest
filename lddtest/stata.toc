@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p lddtest Logarithmic density discontinuity equivalence tests for regression discontinuity designs Use lddtest With STATA 18
