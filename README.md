@@ -1,5 +1,7 @@
 # lddtest
-Logarithmic density discontinuity equivalence tests for regression discontinuity designs Use lddtest With STATA 18
+Logarithmic density discontinuity equivalence tests for regression discontinuity designs Use lddtest With STATA 19
+
+https://www.youtube.com/watch?v=wshDVSkaN9Q
 
 Olah Data Semarang
 
